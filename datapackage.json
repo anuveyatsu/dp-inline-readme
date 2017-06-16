@@ -1,0 +1,10 @@
+{
+  "name": "dp-inline-readme",
+  "resources": [
+    {
+      "name": "test-resource",
+      "data": [1,2,3]
+    }
+  ],
+  "readme": "This is a test readme."
+}
